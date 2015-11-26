@@ -7,5 +7,10 @@ java application
 Eclipse
 ## java version
 java 1.6
+## step
+- create the project of application
+- edit the code of application
+- debug the code 
+
 > Practice makes perfect
 
