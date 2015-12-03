@@ -10,9 +10,10 @@ java 1.6
 - create the project of application
 - edit the code of application
 - debug the code 
+
 ##5. License
 Copyright (c) 2015 dolphinlcj
-Published under [Apache License 2.0]http://www.apache.org/licenses/LICENSE-2.0, see LICENSE
+Published under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0), see LICENSE
 
 > Practice makes perfect
 
