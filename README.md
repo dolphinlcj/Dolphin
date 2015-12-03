@@ -9,7 +9,8 @@ java 1.6
 ##4. step
 - create the project of application
 - edit the code of application
-- debug the code 
+- debug the code
+
 ##5. License
 Copyright (c) 2015 dolphinlcj
 
